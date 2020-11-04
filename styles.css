@@ -1,0 +1,9 @@
+.my-button{
+    background: orange;
+    border-radius: 10px;
+    border: 1px solid red;
+    outline: none;
+}
+.hide{
+    display: none;
+}
